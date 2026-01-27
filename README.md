@@ -23,14 +23,14 @@ Sayısal donanım tasarımı, **FPGA**, **Gömülü Sistemler** ve **Görüntü 
 ![Verilog](https://img.shields.io/badge/Verilog%20HDL-000000?style=for-the-badge)
 
 ### 🔹 Alanlar
-![FPGA](https://img.shields.io/badge/FPGA%20Tabanl%C4%B1%20Sistemler-000000?style=for-the-badge)
-![Embedded](https://img.shields.io/badge/G%C3%B6m%C3%BCl%C3%BC%20Sistemler-000000?style=for-the-badge)
-![Image Processing](https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Fleme-000000?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA%20Tabanl%C4%B1%20Sistemler-000000?style=flat)
+![Embedded](https://img.shields.io/badge/G%C3%B6m%C3%BCl%C3%BC%20Sistemler-000000?style=flat)
+![Image Processing](https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Fleme-000000?style=flat)
 
 ### 🔹 Araçlar
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-000000?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-000000?style=flat)
  
 
 ---
@@ -51,8 +51,8 @@ FPGA tabanlı mimarilerde güvenlik konularında çalışmak ve teorik bilgimi g
 ## 📌 Öne Çıkan Projeler
 
 ### 🧩 8-Puzzle BFS Solver
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![BFS](https://img.shields.io/badge/Algorithm-BFS-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![BFS](https://img.shields.io/badge/Algorithm-BFS-000000?style=flat)
 
 
 
