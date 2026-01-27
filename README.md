@@ -35,12 +35,6 @@ Sayısal donanım tasarımı, **FPGA**, **Gömülü Sistemler** ve **Görüntü 
 
 ---
 
-## 📊 GitHub istatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbmuti&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbmuti&layout=compact&theme=tokyonight)
-
 
 ## 🎯 Hedef
 
