@@ -18,23 +18,29 @@ Sayısal donanım tasarımı, **FPGA**, **Gömülü Sistemler** ve **Görüntü 
 ## 🛠️ Kullandığım Araçlar ve Teknolojiler
 
 ### 🔹 Programlama / Donanım Dilleri
-- Python  
-- C / C++  
-- Verilog HDL    
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog%20HDL-000000?style=for-the-badge)
 
 ### 🔹 Alanlar
-- Sayısal Donanım Tasarımı  
-- FPGA Tabanlı Sistemler  
-- Gömülü Sistemler  
-- Görüntü İşleme  
-- Donanım Hızlandırma  
+![FPGA](https://img.shields.io/badge/FPGA%20Tabanl%C4%B1%20Sistemler-000000?style=for-the-badge)
+![Embedded](https://img.shields.io/badge/G%C3%B6m%C3%BCl%C3%BC%20Sistemler-000000?style=for-the-badge)
+![Image Processing](https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Fleme-000000?style=for-the-badge)
 
 ### 🔹 Araçlar
-- Visual Studio Code (VS Code)  
-- Git / GitHub  
-- Vivado  
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-000000?style=for-the-badge)
+ 
 
 ---
+
+## 📊 GitHub istatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbmuti&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbmuti&layout=compact&theme=tokyonight)
+
 
 ## 🎯 Hedef
 
@@ -44,9 +50,9 @@ FPGA tabanlı mimarilerde güvenlik konularında çalışmak ve teorik bilgimi g
 
 ## 📌 Öne Çıkan Projeler
 
-- **8-Puzzle BFS Solver**  
-  Python kullanılarak BFS algoritması ile en kısa çözüm yolunun bulunması  
-  🔗 https://github.com/bbmuti/8-puzzle-bfs-solver
+### 🧩 8-Puzzle BFS Solver
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![BFS](https://img.shields.io/badge/Algorithm-BFS-000000?style=for-the-badge)
 
 
 
