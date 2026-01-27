@@ -11,7 +11,7 @@ Sayısal donanım tasarımı, **FPGA**, **Gömülü Sistemler** ve **Görüntü 
 - 🔭 Şu anda **FPGA üzerinde görüntü işleme projeleri** geliştiriyorum.  
 - ⚡ **Donanım hızlandırma**, **paralel mimariler** ve **SoC tasarımı** konularına odaklanıyorum.  
 - ✍️ Bilgilerimi paylaşmayı seviyorum; **blog yazıları** ve **mini projeler** üretiyorum.  
-- 🌱 Şu anda **SystemVerilog** ve **OpenCL for FPGA** öğreniyorum.
+- 🌱 **Siber güvenlik** alanında, özellikle **gömülü sistemler** ve donanım tabanlı güvenlik konularına ilgi duyuyor, bu alanda kendimi geliştirmeye çalışıyorum.
 
 ---
 
@@ -20,8 +20,7 @@ Sayısal donanım tasarımı, **FPGA**, **Gömülü Sistemler** ve **Görüntü 
 ### 🔹 Programlama / Donanım Dilleri
 - Python  
 - C / C++  
-- Verilog HDL  
-- SystemVerilog *(öğrenme aşamasında)*  
+- Verilog HDL    
 
 ### 🔹 Alanlar
 - Sayısal Donanım Tasarımı  
@@ -39,8 +38,8 @@ Sayısal donanım tasarımı, **FPGA**, **Gömülü Sistemler** ve **Görüntü 
 
 ## 🎯 Hedef
 
-FPGA, gömülü sistemler ve görüntü işleme alanlarında staj yaparak,
-donanım ve yazılım bilgisini gerçek sistemler üzerinde uygulamak ve endüstriyel deneyim kazanmak.
+Siber güvenlik alanında staj yaparak, özellikle gömülü sistemler ve 
+FPGA tabanlı mimarilerde güvenlik konularında çalışmak ve teorik bilgimi gerçek sistemler üzerinde uygulamak istiyorum.
 
 
 ## 📌 Öne Çıkan Projeler
@@ -50,11 +49,7 @@ donanım ve yazılım bilgisini gerçek sistemler üzerinde uygulamak ve endüst
   🔗 https://github.com/bbmuti/8-puzzle-bfs-solver
 
 
-## 🎯 Hedef
-FPGA, gömülü sistemler ve görüntü işleme alanlarında **staj** yaparak;  
-donanım ve yazılım bilgisini gerçek projelerde kullanmak.
-
 
 ## 📫 İletişim
-- LinkedIn: (link)
-- E-posta: (mail)
+- LinkedIn: (http://linkedin.com/in/begüm-mutioğlu)
+- E-posta: (berenmuti5404gmail.com)
