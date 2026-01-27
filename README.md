@@ -1,36 +1,41 @@
-# Begüm Beren Mutioğlu 👋
+# 👋 Begüm Beren Mutioğlu  
 
-🎓 Bilgisayar Mühendisliği öğrencisiyim.
-Sayısal donanım tasarımı, FPGA, Gömülü Sistemler ve Görüntü İşleme alanlarında çalışmalar yapmaktayım. Python, Verilog ve C/C++ dilleriyle akademik ve bireysel projeler geliştiriyorum.
+🎓 **Bilgisayar Mühendisliği öğrencisiyim.**  
+Sayısal donanım tasarımı, **FPGA**, **Gömülü Sistemler** ve **Görüntü İşleme** alanlarında çalışmalar yapmaktayım.  
+**Python**, **Verilog** ve **C/C++** dilleriyle akademik ve bireysel projeler geliştiriyorum.
 
-##💡 Hakkımda
+---
 
-🔭 Şu anda FPGA üzerinde görüntü işleme projeleri geliştiriyorum.
-📚 Donanım hızlandırma, paralel mimariler ve SoC tasarımı konularına odaklanıyorum.
-✍️ Bilgilerimi paylaşmayı seviyorum; blog yazıları ve mini projeler üretmekteyim.
-🌱 Şu anda SystemVerilog ve OpenCL for FPGA öğreniyorum.
+## 💡 Hakkımda
 
-##🛠️ Kullandığım Araçlar ve Teknolojiler
+- 🔭 Şu anda **FPGA üzerinde görüntü işleme projeleri** geliştiriyorum.  
+- ⚡ **Donanım hızlandırma**, **paralel mimariler** ve **SoC tasarımı** konularına odaklanıyorum.  
+- ✍️ Bilgilerimi paylaşmayı seviyorum; **blog yazıları** ve **mini projeler** üretiyorum.  
+- 🌱 Şu anda **SystemVerilog** ve **OpenCL for FPGA** öğreniyorum.
 
-Programlama / Donanım Dilleri
+---
 
-Python
-C / C++
-Verilog HDL
-SystemVerilog (öğrenme aşamasında)
+## 🛠️ Kullandığım Araçlar ve Teknolojiler
 
-Alanlar
+### 🔹 Programlama / Donanım Dilleri
+- Python  
+- C / C++  
+- Verilog HDL  
+- SystemVerilog *(öğrenme aşamasında)*  
 
-Sayısal Donanım Tasarımı
-FPGA Tabanlı Sistemler
-Gömülü Sistemler
-Görüntü İşleme
-Donanım Hızlandırma
+### 🔹 Alanlar
+- Sayısal Donanım Tasarımı  
+- FPGA Tabanlı Sistemler  
+- Gömülü Sistemler  
+- Görüntü İşleme  
+- Donanım Hızlandırma  
 
-Araçlar
-Git / GitHub
-Vivado
-Visual Studio Code (VS Code)
+### 🔹 Araçlar
+- Visual Studio Code (VS Code)  
+- Git / GitHub  
+- Vivado  
+
+---
 
 ## 🎯 Hedef
 
