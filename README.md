@@ -48,14 +48,6 @@ Siber güvenlik alanında staj yaparak, özellikle gömülü sistemler ve
 FPGA tabanlı mimarilerde güvenlik konularında çalışmak ve teorik bilgimi gerçek sistemler üzerinde uygulamak istiyorum.
 
 
-## 📌 Öne Çıkan Projeler
-
-### 🧩 8-Puzzle BFS Solver
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
-![BFS](https://img.shields.io/badge/Algorithm-BFS-000000?style=flat)
-
-
-
 ## 📫 İletişim
 - LinkedIn: (http://linkedin.com/in/begüm-mutioğlu)
 - E-posta: (berenmuti5404gmail.com)
