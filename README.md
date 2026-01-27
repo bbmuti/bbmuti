@@ -18,9 +18,9 @@ Sayısal donanım tasarımı, **FPGA**, **Gömülü Sistemler** ve **Görüntü 
 ## 🛠️ Kullandığım Araçlar ve Teknolojiler
 
 ### 🔹 Programlama / Donanım Dilleri
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog%20HDL-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog%20HDL-000000?style=flat)
 
 ### 🔹 Alanlar
 ![FPGA](https://img.shields.io/badge/FPGA%20Tabanl%C4%B1%20Sistemler-000000?style=flat)
