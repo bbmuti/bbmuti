@@ -3,14 +3,14 @@
 🎓 Bilgisayar Mühendisliği öğrencisiyim.
 Sayısal donanım tasarımı, FPGA, Gömülü Sistemler ve Görüntü İşleme alanlarında çalışmalar yapmaktayım. Python, Verilog ve C/C++ dilleriyle akademik ve bireysel projeler geliştiriyorum.
 
-💡 Hakkımda
+##💡 Hakkımda
 
 🔭 Şu anda FPGA üzerinde görüntü işleme projeleri geliştiriyorum.
 📚 Donanım hızlandırma, paralel mimariler ve SoC tasarımı konularına odaklanıyorum.
 ✍️ Bilgilerimi paylaşmayı seviyorum; blog yazıları ve mini projeler üretmekteyim.
 🌱 Şu anda SystemVerilog ve OpenCL for FPGA öğreniyorum.
 
-🛠️ Kullandığım Araçlar ve Teknolojiler
+##🛠️ Kullandığım Araçlar ve Teknolojiler
 
 Programlama / Donanım Dilleri
 
