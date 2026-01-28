@@ -43,5 +43,5 @@ FPGA tabanlı mimarilerde güvenlik konularında çalışmak ve teorik bilgimi g
 
 
 ## 📫 İletişim
-- LinkedIn: (http://linkedin.com/in/begüm-mutioğlu)
+- LinkedIn: (linkedin.com/in/begüm-mutioğlu-32494033b)
 - E-posta: (berenmuti5404gmail.com)
