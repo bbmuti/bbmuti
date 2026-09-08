@@ -1,47 +1,94 @@
-# 👋 Begüm Beren Mutioğlu  
+# 👋 Begüm Beren Mutioğlu
 
-🎓 **Bilgisayar Mühendisliği öğrencisiyim.**  
-Sayısal donanım tasarımı, **FPGA**, **Gömülü Sistemler** ve **Görüntü İşleme** alanlarında çalışmalar yapmaktayım.  
-**Python**, **Verilog** ve **C/C++** dilleriyle akademik ve bireysel projeler geliştiriyorum.
+🎓 **Sakarya Uygulamalı Bilimler Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.**
+
+Kurumsal **Bilgi İşlem**, **Sistem ve Network**, **Siber Güvenlik** ve **Yazılım Geliştirme** alanlarında kendimi geliştiriyorum. Windows tabanlı sistemler, Active Directory, switch konfigürasyonu, VLAN/IP tanımlama, donanım arıza tespiti ve kullanıcı desteği konularında uygulamalı deneyime sahibim.
+
+Aynı zamanda **Python, C/C++, Verilog ve FPGA** teknolojileriyle yazılım–donanım entegrasyonu içeren projeler geliştiriyorum.
 
 ---
 
 ## 💡 Hakkımda
 
-- 🔭 Şu anda **FPGA üzerinde görüntü işleme projeleri** geliştiriyorum.  
-- ⚡ **Donanım hızlandırma**, **paralel mimariler** ve **SoC tasarımı** konularına odaklanıyorum.  
-- ✍️ Bilgilerimi paylaşmayı seviyorum; **blog yazıları** ve **mini projeler** üretiyorum.  
-- 🌱 **Siber güvenlik** alanında, özellikle **gömülü sistemler** ve donanım tabanlı güvenlik konularına ilgi duyuyor, bu alanda kendimi geliştirmeye çalışıyorum.
+* 🖥️ Windows sistemleri, Active Directory, kullanıcı ve erişim yönetimi konularında çalışıyorum.
+* 🌐 Switch konfigürasyonu, VLAN/IP tanımlama ve temel ağ sorun giderme işlemleriyle ilgileniyorum.
+* 🔐 Siber güvenlik, güvenlik olaylarının izlenmesi ve açıklanabilir yapay zekâ alanlarında projeler geliştiriyorum.
+* ⚙️ FPGA, gömülü sistemler ve yazılım–donanım entegrasyonu konularındaki çalışmalarımı sürdürüyorum.
+* 📊 SAP, ABAP ve SQL kullanılan kurumsal süreçler hakkında deneyim kazanıyorum.
+* 🚀 Teknik bilgilerimi gerçek sistemler üzerinde uygulayabileceğim projeler üretmeye odaklanıyorum.
 
 ---
 
-## 🛠️ Kullandığım Araçlar ve Teknolojiler
+## 🛠️ Teknolojiler ve Yetkinlikler
 
-### 🔹 Programlama / Donanım Dilleri
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-000000?style=flat&logo=c%2B%2B&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog%20HDL-000000?style=flat)
+### 🔹 Programlama ve Donanım Dilleri
 
-### 🔹 Alanlar
-![FPGA](https://img.shields.io/badge/FPGA%20Tabanl%C4%B1%20Sistemler-000000?style=flat)
-![Embedded](https://img.shields.io/badge/G%C3%B6m%C3%BCl%C3%BC%20Sistemler-000000?style=flat)
-![Image Processing](https://img.shields.io/badge/G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Fleme-000000?style=flat)
+![Python](https://img.shields.io/badge/Python-000000?style=flat\&logo=python\&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-000000?style=flat\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat\&logo=openjdk\&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat)
+![RV32I Assembly](https://img.shields.io/badge/RV32I%20Assembly-000000?style=flat)
 
-### 🔹 Araçlar
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-000000?style=flat)
- 
+### 🔹 Sistem, Network ve Güvenlik
+
+![Windows](https://img.shields.io/badge/Windows-000000?style=flat\&logo=windows\&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-000000?style=flat)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=flat)
+![Switch](https://img.shields.io/badge/Switch%20Configuration-000000?style=flat)
+![VLAN](https://img.shields.io/badge/VLAN%20%26%20IP-000000?style=flat)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat)
+
+### 🔹 Web, Mobil ve Veri
+
+![React](https://img.shields.io/badge/React-000000?style=flat\&logo=react\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat\&logo=nestjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat\&logo=postgresql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat\&logo=firebase\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat\&logo=docker\&logoColor=white)
+
+### 🔹 Donanım ve Haberleşme
+
+![FPGA](https://img.shields.io/badge/FPGA-000000?style=flat)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=flat)
+![UART](https://img.shields.io/badge/UART-000000?style=flat)
+![SPI](https://img.shields.io/badge/SPI-000000?style=flat)
+![I2C](https://img.shields.io/badge/I2C-000000?style=flat)
+
+### 🔹 Araçlar ve Kurumsal Sistemler
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat\&logo=visualstudiocode\&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP%20%26%20ABAP-000000?style=flat\&logo=sap\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat)
 
 ---
 
+## 🚀 Öne Çıkan Projeler
 
-## 🎯 Hedef
+### 🔐 XAI Destekli Phishing ve URL Analiz Platformu
 
-Siber güvenlik alanında staj yaparak, özellikle gömülü sistemler ve 
-FPGA tabanlı mimarilerde güvenlik konularında çalışmak ve teorik bilgimi gerçek sistemler üzerinde uygulamak istiyorum.
+URL ve web sitesi özelliklerinden kimlik avı girişimlerini tespit etmeye yönelik makine öğrenmesi tabanlı analiz platformu. Model kararlarının açıklanması için SHAP ve LIME yöntemlerinden yararlanıyorum.
 
+### 🛡️ SecureOps
+
+Sistem ve güvenlik olaylarının merkezi olarak izlenmesi, sınıflandırılması ve yönetilmesine yönelik güvenlik izleme platformu.
+
+### ⚙️ PicoRV32 RV32I Assembler, Linker ve FPGA Loader
+
+RV32I komut seti için iki geçişli assembler, relocation destekli linker ve UART tabanlı çalışma zamanı yükleyicisi geliştirdim. Sistemi Tang Nano 9K FPGA üzerinde test ettim.
+
+---
+
+## 🎯 Hedefim
+
+Sistem, network, bilgi teknolojileri veya siber güvenlik alanlarında profesyonel deneyim kazanmak; yazılım ve donanım bilgimi güvenli, sürdürülebilir ve gerçek dünyada kullanılabilir sistemler geliştirmek için bir arada kullanmak istiyorum.
+
+---
 
 ## 📫 İletişim
-- LinkedIn: (linkedin.com/in/begüm-mutioğlu-32494033b)
-- E-posta: (berenmuti5404gmail.com)
+
+* [LinkedIn](https://linkedin.com/in/begüm-mutioğlu-32494033b)
+* [GitHub](https://github.com/bbmuti)
+* E-posta: **[berenmuti5404@gmail.com](mailto:berenmuti5404@gmail.com)**
