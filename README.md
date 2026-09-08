@@ -89,6 +89,6 @@ Sistem, network, bilgi teknolojileri veya siber güvenlik alanlarında profesyon
 
 ## 📫 İletişim
 
-* [LinkedIn](https://linkedin.com/in/begüm-mutioğlu-32494033b)
+* [LinkedIn](https://www.linkedin.com/in/beren-mutio%C4%9Flu-32494033b/)
 * [GitHub](https://github.com/bbmuti)
 * E-posta: **[berenmuti5404@gmail.com](mailto:berenmuti5404@gmail.com)**
