@@ -2,9 +2,7 @@
 
 Sakarya Uygulamalı Bilimler Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Sistem ve ağ yönetimi, siber güvenlik, yazılım geliştirme ve yazılım–donanım entegrasyonu alanlarında çalışıyorum.
 
-- Windows sistemleri, Active Directory, VLAN/IP yapılandırması ve teknik destek konularında uygulamalı deneyime sahibim.
-- Python, C/C++, Java ve Verilog ile projeler geliştiriyorum.
-- Güvenli, sürdürülebilir ve gerçek dünyada kullanılabilir sistemler üretmeye odaklanıyorum.
+Kurumsal IT deneyimimi; güvenlik izleme, makine öğrenmesi, algoritmalar ve sayısal hesaplama üzerine geliştirdiğim projelerle destekliyorum. Güvenli, sürdürülebilir ve gerçek dünyada kullanılabilir sistemler geliştirmeye odaklanıyorum.
 
 ## Teknolojiler
 
@@ -20,25 +18,20 @@ Sakarya Uygulamalı Bilimler Üniversitesi Bilgisayar Mühendisliği 4. sınıf 
 
 ## Öne çıkan projeler
 
-### [SecureOps](https://github.com/bbmuti/SecureOps)
-
-Kural tabanlı tespit, Isolation Forest anomali puanlama ve MITRE ATT&CK eşlemesi içeren açıklanabilir güvenlik izleme platformu.
-
-### [GezEskişehir](https://github.com/bbmuti/gezeskisehir-showcase)
-
-Eskişehir'in turistik ve sosyal noktalarını keşfetmeye, haritada görüntülemeye ve kişiselleştirilmiş rota oluşturmaya yönelik Android şehir rehberi uygulamasının güvenli vitrin deposu.
+### [SentinelScope / SecureOps](https://github.com/bbmuti/SecureOps)
+Kural tabanlı tespit, Isolation Forest anomali puanlama, MITRE ATT&CK bağlamı ve açıklanabilir alarm inceleme akışı içeren güvenlik izleme platformu. FastAPI, React, PostgreSQL, Docker ve otomatik güvenlik/kalite kontrolleri kullanır.
 
 ### [Türkiye Ekonomik Göstergeleri — Makine Öğrenmesi](https://github.com/bbmuti/turkey-economic-indicators-ml)
-
-Dünya Bankası verileriyle Türkiye'nin GSYH ve işsizlik göstergelerini inceleyen, doğrusal regresyon tabanlı eğitim projesi.
+Dünya Bankası verileriyle Türkiye'nin kişi başına gelir ve işsizlik göstergelerini zaman sırasını koruyan train/test ayrımıyla inceleyen doğrusal regresyon tabanlı eğitim projesi.
 
 ### [CORDIC Hesap Makinesi](https://github.com/bbmuti/cordic-calculator)
-
-Trigonometrik ve matematiksel işlemleri CORDIC yaklaşımıyla gerçekleştiren Python masaüstü uygulaması.
+Trigonometrik, ters trigonometrik, hiperbolik ve logaritmik işlemleri CORDIC yaklaşımıyla gerçekleştiren; AST tabanlı güvenli ifade değerlendirmesi içeren Python uygulaması.
 
 ### [Labirent Oyunu — Backtracking](https://github.com/bbmuti/maze-game-backtracking)
+Özel stack veri yapısı ve backtracking algoritmasıyla metin tabanlı bir labirentte çıkış yolu arayan C++17 uygulaması.
 
-Özel bir yığın veri yapısı ve geri izleme algoritmasıyla metin tabanlı labirent çözen C++ uygulaması.
+### [Bilet Takip](https://github.com/bbmuti/bilet-takip)
+Birden fazla etkinlik platformundaki bilet duyurularını tarayan, anahtar kelimelerle eşleştiren, durum değişikliklerini takip eden ve SMTP bildirimi üretebilen Python aracı.
 
 ## İlgi alanlarım
 
